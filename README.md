@@ -12,6 +12,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[1.2 - Activities](01-Excel/2/Activities)|[1.2 Slideshow](https://docs.google.com/presentation/d/1IxA5mxfRa4pnRGmbH9YJw_iten9JK1cbN_i6144S5Ds/edit#slide=id.g560846d15a_1_0)|[1.2 Video](https://zoom.us/rec/share/-titvQyzVALRPVUGpLc0U7VeXz5Z1ZTILYN-mHfXuR86JbnMqa6Wkk6k_KxKJ_Ik.oy3X1FbNLFBKGIRZ?startTime=1622151972000)|[1.2 Summary](https://drive.google.com/file/d/1i70DVupErUNkrwXYJMDo6TQQn69NPj0-/view?usp=sharing)
 |[1.3 - Activities](01-Excel/3)|[1.3 Slideshow](https://docs.google.com/presentation/d/1pJa1TZABU9A5sGXxak7XimvBMlzGin-TZ0EKKQDKVvk/edit#slide=id.g560846d15a_1_0)|[1.3 Video](https://zoom.us/rec/share/TLyLQO-Ig7dgLkFvt1Frjrih7MPuUyUOSXjk_4OOqB-w0YCfJ_AqaFD9dsnUOpyX.4aJG4WyjwXB0jGVF?startTime=1622583997000)|[1.3 Summary](https://drive.google.com/file/d/1HcCIdY_2kQ4QQ-jnwLqJcx3WqC_l0Wb5/view?usp=sharing)
 
+*** [Excel Homework](https://zoom.us/rec/share/0ZSfS62CaWullxpWZLAHxU51CWV0VvSoUvS64sMMoBpBd95BnIRIAd17l2yhVgkS.glaHhn3SADtM1ypu?startTime=1622598975000)
 - - -
 
 ### [Unit 2 - VBA Scripting](01-Lesson-Plans/02-VBA-Scripting)
