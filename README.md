@@ -19,4 +19,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ### [Unit 2 - VBA Scripting](01-Lesson-Plans/02-VBA-Scripting)
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[2.1 - Activities](01-Lesson-Plans/02-VBA-Scripting/1)|[2.1 Slideshow](https://docs.google.com/presentation/d/1Phs85XGpB1Zk9rnnpvoNJIuyRq5FERtqHplZLlBLDY4/edit#slide=id.g473a132ac1_0_7)
+|[2.1 - Activities](01-Lesson-Plans/02-VBA-Scripting/1)|[2.1 Slideshow](https://docs.google.com/presentation/d/1Phs85XGpB1Zk9rnnpvoNJIuyRq5FERtqHplZLlBLDY4/edit#slide=id.g473a132ac1_0_7)|[2.1 Video](https://zoom.us/rec/share/2vpNsIu_uWaTYL4tczCeKDKbBp3i4rvkOPfCEb5ddD2YwLwxgCoxwbhT2k8gdQ.bz2rex3qRdijkRds?startTime=1622756799000)|[2.1 Summary](https://drive.google.com/file/d/1d7EzN2pzULBcNQOzyGR_WEGdScf9SBZH/view?usp=sharing)
+|[2.2 - Activities](01-Lesson-Plans/02-VBA-Scripting/2)|[2.2 Slideshow](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g473a132ac1_0_7)
