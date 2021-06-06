@@ -34,3 +34,13 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[2.1 - Activities](01-Lesson-Plans/02-VBA-Scripting/1)|[2.1 Slideshow](https://docs.google.com/presentation/d/1Phs85XGpB1Zk9rnnpvoNJIuyRq5FERtqHplZLlBLDY4/edit#slide=id.g473a132ac1_0_7)|[2.1 Video](https://zoom.us/rec/share/2vpNsIu_uWaTYL4tczCeKDKbBp3i4rvkOPfCEb5ddD2YwLwxgCoxwbhT2k8gdQ.bz2rex3qRdijkRds?startTime=1622756799000)|[2.1 Summary](https://drive.google.com/file/d/1d7EzN2pzULBcNQOzyGR_WEGdScf9SBZH/view?usp=sharing)
 |[2.2 - Activities](01-Lesson-Plans/02-VBA-Scripting/2)|[2.2 Slideshow](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g473a132ac1_0_7)|[2.2 Video](https://zoom.us/rec/share/ACHsI-4O7MK4NzZG5zKNr9x66nXLqL6KZSmXMPVH96fYcS7Vt3dIkfT28nVSMVid.jG06CpgrEGK9vJ7n?startTime=1622898948000)|[2.2 Summary](https://drive.google.com/file/d/1I3j8bHJzNzxObY4pULrN4bonl7MBv7v9/view?usp=sharing)
 |[2.3 - Activities](01-Lesson-Plans/02-VBA-Scripting/3)|[2.3 Slideshow](https://docs.google.com/presentation/d/1SU0xDLa1Cr790iIP_nZI42ypMjF2d1N7IgK-vu8lzI8/edit#slide=id.g473a132ac1_0_7)
+
+**Unit 2 Relevant Recources**
+* [VBA Data Types](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary)
+* [Excel VBA Cheatsheet](https://www.automateexcel.com/blockedfolder/AutomateExcel-VBA-Cheatsheet.pdf)
+* [VBA Operators And Functions](https://www.excelfunctions.net/vba-operators-and-functions.html)
+* [VBA If, ElseIf, Else (Ultimate Guide to If Statements) - Automate Excel](https://www.automateexcel.com/vba/else-if-statement)
+* [5 Different Ways to Find The Last Row or Last Column Using VBA — TheSpreadsheetGuru](https://www.thespreadsheetguru.com/blog/2014/7/7/5-different-ways-to-find-the-last-row-or-last-column-using-vba)
+* 
+
+
