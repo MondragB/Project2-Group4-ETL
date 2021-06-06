@@ -22,7 +22,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [programiz.com](https://www.programiz.com/)
 * [stackoverflow](https://stackoverflow.com/)
 
-**Unit 1 Relevant Recources**
+**Unit 1 Relevant Resources**
 * [FIND() LEN() LEFT() RIGHT() Functions Extract Text From Cells in Excel](https://www.youtube.com/watch?v=owi2asBN3oo)
 * [Adding a file to a repository using the command line - GitHub Docs](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-using-the-command-line/adding-a-file-to-a-repository-using-the-command-line)
 * [String Case Styles: Camel, Pascal, Snake, and Kebab Case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
@@ -35,7 +35,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[2.2 - Activities](01-Lesson-Plans/02-VBA-Scripting/2)|[2.2 Slideshow](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g473a132ac1_0_7)|[2.2 Video](https://zoom.us/rec/share/ACHsI-4O7MK4NzZG5zKNr9x66nXLqL6KZSmXMPVH96fYcS7Vt3dIkfT28nVSMVid.jG06CpgrEGK9vJ7n?startTime=1622898948000)|[2.2 Summary](https://drive.google.com/file/d/1I3j8bHJzNzxObY4pULrN4bonl7MBv7v9/view?usp=sharing)
 |[2.3 - Activities](01-Lesson-Plans/02-VBA-Scripting/3)|[2.3 Slideshow](https://docs.google.com/presentation/d/1SU0xDLa1Cr790iIP_nZI42ypMjF2d1N7IgK-vu8lzI8/edit#slide=id.g473a132ac1_0_7)
 
-**Unit 2 Relevant Recources**
+**Unit 2 Relevant Resources**
 * [VBA Data Types](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary)
 * [Excel VBA Cheatsheet](https://www.automateexcel.com/blockedfolder/AutomateExcel-VBA-Cheatsheet.pdf)
 * [VBA Operators And Functions](https://www.excelfunctions.net/vba-operators-and-functions.html)
