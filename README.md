@@ -41,5 +41,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [VBA Operators And Functions](https://www.excelfunctions.net/vba-operators-and-functions.html)
 * [VBA If, ElseIf, Else (Ultimate Guide to If Statements) - Automate Excel](https://www.automateexcel.com/vba/else-if-statement)
 * [5 Different Ways to Find The Last Row or Last Column Using VBA — TheSpreadsheetGuru](https://www.thespreadsheetguru.com/blog/2014/7/7/5-different-ways-to-find-the-last-row-or-last-column-using-vba)
+* [VBA Code Examples for Excel](https://www.automateexcel.com/vba-code-examples/)
 
 
