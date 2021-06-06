@@ -22,7 +22,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [programiz.com](https://www.programiz.com/)
 * [stackoverflow](https://stackoverflow.com/)
 
-**Unit1 Relevant Recources**
+**Unit 1 Relevant Recources**
 * [FIND() LEN() LEFT() RIGHT() Functions Extract Text From Cells in Excel](https://www.youtube.com/watch?v=owi2asBN3oo)
 * [Adding a file to a repository using the command line - GitHub Docs](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-using-the-command-line/adding-a-file-to-a-repository-using-the-command-line)
 * [String Case Styles: Camel, Pascal, Snake, and Kebab Case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
