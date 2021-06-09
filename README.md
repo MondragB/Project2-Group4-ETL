@@ -45,4 +45,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [5 Different Ways to Find The Last Row or Last Column Using VBA — TheSpreadsheetGuru](https://www.thespreadsheetguru.com/blog/2014/7/7/5-different-ways-to-find-the-last-row-or-last-column-using-vba)
 * [VBA Code Examples for Excel](https://www.automateexcel.com/vba-code-examples/)
 
+### [Unit 3 - Python](01-Lesson-Plans/03-Python)
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[3.1 - Activities](01-Lesson-Plans/03-Python/1)|[3.1 Slideshow](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit#slide=id.g71fbd5a0e0_0_0)
 
