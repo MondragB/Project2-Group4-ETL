@@ -48,6 +48,14 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ### [Unit 3 - Python](01-Lesson-Plans/03-Python)
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[3.1 - Activities](01-Lesson-Plans/03-Python/1)|[3.1 Slideshow](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit#slide=id.g71fbd5a0e0_0_0)|[3.1 Video](https://zoom.us/rec/share/czAgRfEIHEkTgdLEHEM8ahHoJYmHwlXaI3Y8aHCCwkWrgxzb59UCJrm7afzw0C6r.h1iXhk4LdtOYWu-O?startTime=1623361547000)|[3.1 Summary](https://drive.google.com/file/d/1Y-Z0ShMv4A5uwVDLHxwyw6Mu0ysujVSy/view?usp=sharing)
+|[3.1 - Activities](01-Lesson-Plans/03-Python/1/Activities)|[3.1 Slideshow](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit#slide=id.g71fbd5a0e0_0_0)|[3.1 Video](https://zoom.us/rec/share/czAgRfEIHEkTgdLEHEM8ahHoJYmHwlXaI3Y8aHCCwkWrgxzb59UCJrm7afzw0C6r.h1iXhk4LdtOYWu-O?startTime=1623361547000)|[3.1 Summary](https://drive.google.com/file/d/1Y-Z0ShMv4A5uwVDLHxwyw6Mu0ysujVSy/view?usp=sharing)
 |[3.2 - Activities](01-Lesson-Plans/03-Python/2)|[3.2 Slideshow](https://docs.google.com/presentation/d/1Mu-qvYd0BMbh0u02WSFc9LPl_lyeu99Qpa8UjBZKX1g/edit#slide=id.g828f33c8e5_0_0)
+
+**Unit 3 Relevant Resources**
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Creating an environment with commands](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+* [W3Schools Python](https://www.w3schools.com/python/python_getstarted.asp)
+* [Some GitBash/Terminal Commands](https://docs.google.com/document/d/1KZ8M66uD43azf9ewtGZG0h-UO5JVOsY_xrMjrLD-8w8/edit?usp=sharing)
+* [Anaconda virtual environment commands](https://docs.google.com/document/d/15A-7G8znsZaWrU9C-altBTirxdkIqcoARCYJlJ7JO7s/edit?usp=sharing)
+* [W3Schools Python Operators](https://www.w3schools.com/python/python_operators.asp)
 
