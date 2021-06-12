@@ -58,4 +58,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Some GitBash/Terminal Commands](https://docs.google.com/document/d/1KZ8M66uD43azf9ewtGZG0h-UO5JVOsY_xrMjrLD-8w8/edit?usp=sharing)
 * [Anaconda virtual environment commands](https://docs.google.com/document/d/15A-7G8znsZaWrU9C-altBTirxdkIqcoARCYJlJ7JO7s/edit?usp=sharing)
 * [W3Schools Python Operators](https://www.w3schools.com/python/python_operators.asp)
+* [VSCode Videos](https://code.visualstudio.com/docs/getstarted/introvideos#VSCode)
 
