@@ -49,7 +49,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[3.1 - Activities](01-Lesson-Plans/03-Python/1/Activities)|[3.1 Slideshow](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit#slide=id.g71fbd5a0e0_0_0)|[3.1 Video](https://zoom.us/rec/share/czAgRfEIHEkTgdLEHEM8ahHoJYmHwlXaI3Y8aHCCwkWrgxzb59UCJrm7afzw0C6r.h1iXhk4LdtOYWu-O?startTime=1623361547000)|[3.1 Summary](https://drive.google.com/file/d/1Y-Z0ShMv4A5uwVDLHxwyw6Mu0ysujVSy/view?usp=sharing)
-|[3.2 - Activities](01-Lesson-Plans/03-Python/2)|[3.2 Slideshow](https://docs.google.com/presentation/d/1Mu-qvYd0BMbh0u02WSFc9LPl_lyeu99Qpa8UjBZKX1g/edit#slide=id.g828f33c8e5_0_0)
+|[3.2 - Activities](01-Lesson-Plans/03-Python/2/Activities)|[3.2 Slideshow](https://docs.google.com/presentation/d/1Mu-qvYd0BMbh0u02WSFc9LPl_lyeu99Qpa8UjBZKX1g/edit#slide=id.g828f33c8e5_0_0)|[3.2 Video](https://zoom.us/rec/share/lA5cVIvb3AHTk1sQJQ5bSFN9FurP5wwVWmFLKGzcgIA2VEQZYSOHkyHDtNNjKMc.adDAZP7cwcQmydEW?startTime=1623504529000)|[3.2 Summary](https://drive.google.com/file/d/1_VIaA3u56V_nP_8FsjpuKDBWz8AEHICi/view?usp=sharing)
+|[3.3 - Activities](01-Lesson-Plans/03-Python/3/Activities)|[3.3 Slideshow](https://docs.google.com/presentation/d/1Oe8Ne3n1k67DRQ4tgxjGZA6rALRkeJAsILIcVXb-o6Q/edit#slide=id.g72785e4cf0_0_2271)
 
 **Unit 3 Relevant Resources**
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
