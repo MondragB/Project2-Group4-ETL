@@ -66,3 +66,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python Dictionary Append: How to add a Key/Value Pair](https://www.guru99.com/python-dictionary-append.html)
 * [How to use Python Raw Strings](https://www.askpython.com/python/string/python-raw-strings)
 
+### [Unit 4 - Pandas](01-Lesson-Plans/04-Pandas)
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[4.1 Activities](01-Lesson-Plans/04-Pandas/1/Activities)|[4.1 Slideshow](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit#slide=id.g72f20fcbfa_0_0)
+
