@@ -52,7 +52,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[3.2 - Activities](01-Lesson-Plans/03-Python/2/Activities)|[3.2 Slideshow](https://docs.google.com/presentation/d/1Mu-qvYd0BMbh0u02WSFc9LPl_lyeu99Qpa8UjBZKX1g/edit#slide=id.g828f33c8e5_0_0)|[3.2 Video](https://zoom.us/rec/share/lA5cVIvb3AHTk1sQJQ5bSFN9FurP5wwVWmFLKGzcgIA2VEQZYSOHkyHDtNNjKMc.adDAZP7cwcQmydEW?startTime=1623504529000)|[3.2 Summary](https://drive.google.com/file/d/1_VIaA3u56V_nP_8FsjpuKDBWz8AEHICi/view?usp=sharing)
 |[3.3 - Activities](01-Lesson-Plans/03-Python/3/Activities)|[3.3 Slideshow](https://docs.google.com/presentation/d/1Oe8Ne3n1k67DRQ4tgxjGZA6rALRkeJAsILIcVXb-o6Q/edit#slide=id.g72785e4cf0_0_2271)|[3.3 Video](https://zoom.us/rec/share/BLbfSHI0n5K8X03nhLDocVb-C8edLGBUpyPaBXtTNRHOb085_6M517BE3XDegqGk.Xoc5eE_n2dZdULfq?startTime=1623793544000)|[3.3 Summary](https://drive.google.com/file/d/18TG7U5xtymp_rL0v_Q6CHh7eHa6bpfTy/view?usp=sharing)
 
-**[Python HW Instructions](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-05-2021-U-C/tree/main/02-Homework/03-Python/Instructions)|[Video](https://zoom.us/rec/share/BLbfSHI0n5K8X03nhLDocVb-C8edLGBUpyPaBXtTNRHOb085_6M517BE3XDegqGk.Xoc5eE_n2dZdULfq?startTime=1623807789000)|[Rubric](https://docs.google.com/document/d/1Q5ZnMUD12NvbElOgE3a_lcahuRZdv83aDu9VtXZRiGg/edit)|[Notes](https://docs.google.com/document/d/1Cd82mEcKJeNN-Q8oKt-omaIgzAc5VpIkWmRaIGcvfAY/edit?usp=sharing)
+* [Python HW Instructions](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-05-2021-U-C/tree/main/02-Homework/03-Python/Instructions)|[Video](https://zoom.us/rec/share/BLbfSHI0n5K8X03nhLDocVb-C8edLGBUpyPaBXtTNRHOb085_6M517BE3XDegqGk.Xoc5eE_n2dZdULfq?startTime=1623807789000)|[Rubric](https://docs.google.com/document/d/1Q5ZnMUD12NvbElOgE3a_lcahuRZdv83aDu9VtXZRiGg/edit)|[Notes](https://docs.google.com/document/d/1Cd82mEcKJeNN-Q8oKt-omaIgzAc5VpIkWmRaIGcvfAY/edit?usp=sharing)
+* [Student Guide](01-Lesson-Plans/03-Python/StudentGuide.md)
+* [Video Guide](01-Lesson-Plans/03-Python/VideoGuide.md)
+* [Supplemental](01-Lesson-Plans/03-Python/Supplemental)
 
 **Unit 3 Relevant Resources**
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -65,7 +68,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [The Python Standard Library](https://docs.python.org/3.8/library)
 * [Python Dictionary Append: How to add a Key/Value Pair](https://www.guru99.com/python-dictionary-append.html)
 * [How to use Python Raw Strings](https://www.askpython.com/python/string/python-raw-strings)
-* [Python Supplemental](01-Lesson-Plans/03-Python/Supplemental)
+
 
 ### [Unit 4 - Pandas](01-Lesson-Plans/04-Pandas)
 |Activities|Slideshow|Video|Summary|
