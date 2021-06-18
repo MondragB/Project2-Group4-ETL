@@ -78,4 +78,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 
 **Unit 4 Relevant Resources**
-
+* [Dataquest Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+* [Python encoding formats](https://docs.python.org/3/library/codecs.html#standard-encodings)
