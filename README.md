@@ -74,7 +74,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[4.1 Activities](01-Lesson-Plans/04-Pandas/1/Activities)|[4.1 Slideshow](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit#slide=id.g72f20fcbfa_0_0)|[4.1 Video](https://zoom.us/rec/share/oc-toiH4KYRTVFPsvTJjvIvYDVGFiQk-S1hs5Kgm7Svigv_Q1hyy-YgbIib76Yt1.D2AtRpM_k3suUNmy?startTime=1623966330000)|[4.1 Summary](https://drive.google.com/file/d/1sFcPDwMzYRnsbqXdvHf6XxDpOzXksRlF/view?usp=sharing)
-|[4.2 Activities](01-Lesson-Plans/04-Pandas/2/Activities)|[4.2 Slideshow](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit#slide=id.g7fd6f39269_0_0)
+|[4.2 Activities](01-Lesson-Plans/04-Pandas/2/Activities)|[4.2 Slideshow](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit#slide=id.g7fd6f39269_0_0)|[4.2 video](https://zoom.us/rec/share/iWpK_wCiDYwniLUpir4v_pDGj7azO3QzV2IP5nyH5JJ0wwfnqKeoH9E2XiH_DUOx.FcZ__dk1N1jEkTiV?startTime=1624108533000)|[4.2 Summary](Summary https://drive.google.com/file/d/1dutst6sFUnghU8byVJrFAn0ipVG4LoOi/view?usp=sharing)
+|[4.3 Activities](01-Lesson-Plans/04-Pandas/3/Activities]|[4.3 Slideshow(https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit#slide=id.g750dd75f01_0_0)
 
 
 **Unit 4 Relevant Resources**
