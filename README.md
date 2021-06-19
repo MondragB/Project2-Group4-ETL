@@ -81,3 +81,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 **Unit 4 Relevant Resources**
 * [Dataquest Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [Python encoding formats](https://docs.python.org/3/library/codecs.html#standard-encodings)
+* [Ryan Flammia Terminal Path Trick](https://docs.google.com/document/d/1fyjYdqcQ1zQQfbdYQaV9wkVs7X3haGP0gty6O6E0mrc/edit?usp=sharing)
+* [Different kinds of Merge](https://docs.google.com/document/d/1l6yPd8Ox15c3pJ7N5qChbAt3tmXXIpNIQxhFLULIHg0/edit?usp=sharing)
+* [Python List Slicing -GeeksforGeeks](https://www.geeksforgeeks.org/python-list-slicing/)
