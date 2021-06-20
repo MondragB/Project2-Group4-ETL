@@ -84,3 +84,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Ryan Flammia Terminal Path Trick](https://docs.google.com/document/d/1fyjYdqcQ1zQQfbdYQaV9wkVs7X3haGP0gty6O6E0mrc/edit?usp=sharing)
 * [Different kinds of Merge](https://docs.google.com/document/d/1l6yPd8Ox15c3pJ7N5qChbAt3tmXXIpNIQxhFLULIHg0/edit?usp=sharing)
 * [Python List Slicing -GeeksforGeeks](https://www.geeksforgeeks.org/python-list-slicing/)
+* [Python Pandas-GroupBy-Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm)
