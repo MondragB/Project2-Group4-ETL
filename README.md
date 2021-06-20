@@ -85,3 +85,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Different kinds of Merge](https://docs.google.com/document/d/1l6yPd8Ox15c3pJ7N5qChbAt3tmXXIpNIQxhFLULIHg0/edit?usp=sharing)
 * [Python List Slicing -GeeksforGeeks](https://www.geeksforgeeks.org/python-list-slicing/)
 * [Python Pandas-GroupBy-Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm)
+* [Numpy Cheat Sheet](https://github.com/juliangaal/python-cheat-sheet/tree/master/NumPy)
