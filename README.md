@@ -77,6 +77,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[4.2 Activities](01-Lesson-Plans/04-Pandas/2/Activities)|[4.2 Slideshow](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit#slide=id.g7fd6f39269_0_0)|[4.2 video](https://zoom.us/rec/share/iWpK_wCiDYwniLUpir4v_pDGj7azO3QzV2IP5nyH5JJ0wwfnqKeoH9E2XiH_DUOx.FcZ__dk1N1jEkTiV?startTime=1624108533000)|[4.2 Summary](https://drive.google.com/file/d/1dutst6sFUnghU8byVJrFAn0ipVG4LoOi/view?usp=sharing)
 |[4.3 Activities](01-Lesson-Plans/04-Pandas/3/Activities)|[4.3 Slideshow](https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit#slide=id.g750dd75f01_0_0)
 
+* [Student Guide](01-Lesson-Plans/04-Pandas/StudentGuide.md)
+* [Video Guide](01-Lesson-Plans/04-Pandas/VideoGuide.md)
+* [Supplemental](01-Lesson-Plans/04-Pandas/Supplemental)
+
 
 **Unit 4 Relevant Resources**
 * [Dataquest Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
