@@ -75,8 +75,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|---|
 |[4.1 Activities](01-Lesson-Plans/04-Pandas/1/Activities)|[4.1 Slideshow](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit#slide=id.g72f20fcbfa_0_0)|[4.1 Video](https://zoom.us/rec/share/oc-toiH4KYRTVFPsvTJjvIvYDVGFiQk-S1hs5Kgm7Svigv_Q1hyy-YgbIib76Yt1.D2AtRpM_k3suUNmy?startTime=1623966330000)|[4.1 Summary](https://drive.google.com/file/d/1sFcPDwMzYRnsbqXdvHf6XxDpOzXksRlF/view?usp=sharing)
 |[4.2 Activities](01-Lesson-Plans/04-Pandas/2/Activities)|[4.2 Slideshow](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit#slide=id.g7fd6f39269_0_0)|[4.2 video](https://zoom.us/rec/share/iWpK_wCiDYwniLUpir4v_pDGj7azO3QzV2IP5nyH5JJ0wwfnqKeoH9E2XiH_DUOx.FcZ__dk1N1jEkTiV?startTime=1624108533000)|[4.2 Summary](https://drive.google.com/file/d/1dutst6sFUnghU8byVJrFAn0ipVG4LoOi/view?usp=sharing)
-|[4.3 Activities](01-Lesson-Plans/04-Pandas/3/Activities)|[4.3 Slideshow](https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit#slide=id.g750dd75f01_0_0)
+|[4.3 Activities](01-Lesson-Plans/04-Pandas/3/Activities)|[4.3 Slideshow](https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit#slide=id.g750dd75f01_0_0)|[4.3 Video](https://zoom.us/rec/share/cDZg9eWQMhJUf8OIgBiXo6qM_dOSw20wOIJc0QKyyHD9AT1CJKeg6Bb1cXvzkoeP.fPNd3DtSZVzqBaId?startTime=1624398340000)|[4.3 Summary](https://drive.google.com/file/d/1KTJJeA1ExBG4YOfNtSAUeTvjt7VByHmi/view?usp=sharing)
 
+
+* [Pandas HW Instructions](02-Homework/04-Pandas/Instructions)|[Video](https://zoom.us/rec/share/cDZg9eWQMhJUf8OIgBiXo6qM_dOSw20wOIJc0QKyyHD9AT1CJKeg6Bb1cXvzkoeP.fPNd3DtSZVzqBaId?startTime=1624412505000)|[Rubric](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit)
 * [Student Guide](01-Lesson-Plans/04-Pandas/StudentGuide.md)
 * [Video Guide](01-Lesson-Plans/04-Pandas/VideoGuide.md)
 * [Supplemental](01-Lesson-Plans/04-Pandas/Supplemental)
@@ -90,3 +92,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python List Slicing -GeeksforGeeks](https://www.geeksforgeeks.org/python-list-slicing/)
 * [Python Pandas-GroupBy-Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm)
 * [Numpy Cheat Sheet](https://github.com/juliangaal/python-cheat-sheet/tree/master/NumPy)
+* [Queirozf.com Python number formatting examples](https://queirozf.com/entries/python-number-formatting-examples)
