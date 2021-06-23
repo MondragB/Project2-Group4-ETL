@@ -93,3 +93,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python Pandas-GroupBy-Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm)
 * [Numpy Cheat Sheet](https://github.com/juliangaal/python-cheat-sheet/tree/master/NumPy)
 * [Queirozf.com Python number formatting examples](https://queirozf.com/entries/python-number-formatting-examples)
+
+### [Unit 5 - Matplotlib](01-Lesson-Plans/05-Matplotlib)
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[5.1 Activities](01-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit#slide=id.g574fb37171_0_6)
