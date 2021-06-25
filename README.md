@@ -97,7 +97,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ### [Unit 5 - Matplotlib](01-Lesson-Plans/05-Matplotlib)
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[5.1 Activities](01-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit#slide=id.g574fb37171_0_6)
+|[5.1 Activities](01-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit#slide=id.g574fb37171_0_6)|[5.1 Video](https://zoom.us/rec/share/wMhydQtC_bABdOiUQ32izI4_CzRPwVDnQiE6Mo1fRJR2BzLmOHMJ6Gz0cZ-vg_0S.RUhPZVouPyiPcTrf?startTime=1624571147000)|[5.1 Summary](https://drive.google.com/file/d/19e8_VjDXptPz1-gF3ABdiAJoLiQrQn50/view?usp=sharing)
+|[5.2 Slideshow](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit#slide=id.g574fb37171_0_6)
 
 
 
