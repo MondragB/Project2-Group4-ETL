@@ -106,6 +106,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Matplotlib Markers specific](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html?highlight=plot#matplotlib.pyplot.plot)
 * [Python Matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 * [Python Matplotlib Tutorial](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+* [Mean Median Mode](https://www.w3schools.com/python/python_ml_mean_median_mode.asp)
 
 
 ### [Unit 6-APIs](01-Lesson-Plans/06-Python-APIs)
