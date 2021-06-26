@@ -109,6 +109,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Mean Median Mode](https://www.w3schools.com/python/python_ml_mean_median_mode.asp)
 * [Python Statistics](https://docs.python.org/3/library/statistics.html)
 * [Visualize quartiles in Python](https://mashimo.wordpress.com/2013/07/21/visualize-quartiles-and-summary-statistics-in-python/)
+* [Delta Degrees of Freedom Explanation](https://docs.google.com/document/d/1fm8RB9on537i5s27ojH6iNSDuNdETwSkWHPcXEsL1PQ/edit?usp=sharing)
 
 
 ### [Unit 6-APIs](01-Lesson-Plans/06-Python-APIs)
