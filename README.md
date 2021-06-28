@@ -101,6 +101,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[5.2 Activities](01-Lesson-Plans/05-Matplotlib/2/Activities)|[5.2 Slideshow](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit#slide=id.g574fb37171_0_6)|[5.2 Video](https://zoom.us/rec/share/wfG-d0-UnlERvvnmYGtN7Oe7oyHTnqq34uGtR2pLGoutj8_RMBYIDSVOBVRLyI0N.4JLcI-jR4--yNpnW?startTime=1624713331000)|[5.2 Summary](https://drive.google.com/file/d/10BIZWZvM2QSv78_Hgo1jq-7xovS03FCD/view?usp=sharing)
 |[5.3 Activities](01-Lesson-Plans/05-Matplotlib/3/Activities)|[5.3 Slideshow](https://docs.google.com/presentation/d/1pa6h261pEwK6EG0MpmlDpo6DCvAQnqUz1ep1uQEs_e4/edit#slide=id.g574fb37171_0_6)
 
+* [Student Guide](01-Lesson-Plans/05-Matplotlib/StudentGuide.md)
+* [Video Guide](01-Lesson-Plans/05-Matplotlib/VideoGuide.md)
+
 **Unit 5 Relevant Resources**
 * [Matplotlib](https://matplotlib.org/stable/contents.html)
 * [Matplotlib Markers specific](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html?highlight=plot#matplotlib.pyplot.plot)
