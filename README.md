@@ -101,6 +101,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[5.2 Activities](01-Lesson-Plans/05-Matplotlib/2/Activities)|[5.2 Slideshow](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit#slide=id.g574fb37171_0_6)|[5.2 Video](https://zoom.us/rec/share/wfG-d0-UnlERvvnmYGtN7Oe7oyHTnqq34uGtR2pLGoutj8_RMBYIDSVOBVRLyI0N.4JLcI-jR4--yNpnW?startTime=1624713331000)|[5.2 Summary](https://drive.google.com/file/d/10BIZWZvM2QSv78_Hgo1jq-7xovS03FCD/view?usp=sharing)
 |[5.3 Activities](01-Lesson-Plans/05-Matplotlib/3/Activities)|[5.3 Slideshow](https://docs.google.com/presentation/d/1pa6h261pEwK6EG0MpmlDpo6DCvAQnqUz1ep1uQEs_e4/edit#slide=id.g574fb37171_0_6)
 
+* [Matplotlib HW Instructions](02-Homework/05-Matplotlib/Instructions)||[Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)|[Hints and Considerations](https://docs.google.com/document/d/1D8Bx7rWMTBs7yaedkuVgy_EFcNYPngKzSt3LldcgzlE/edit?usp=sharing)
 * [Student Guide](01-Lesson-Plans/05-Matplotlib/StudentGuide.md)
 * [Video Guide](01-Lesson-Plans/05-Matplotlib/VideoGuide.md)
 
