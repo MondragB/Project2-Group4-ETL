@@ -98,13 +98,18 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[5.1 Activities](01-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit#slide=id.g574fb37171_0_6)|[5.1 Video](https://zoom.us/rec/share/wMhydQtC_bABdOiUQ32izI4_CzRPwVDnQiE6Mo1fRJR2BzLmOHMJ6Gz0cZ-vg_0S.RUhPZVouPyiPcTrf?startTime=1624571147000)|[5.1 Summary](https://drive.google.com/file/d/19e8_VjDXptPz1-gF3ABdiAJoLiQrQn50/view?usp=sharing)
-|[5.2 Slideshow](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit#slide=id.g574fb37171_0_6)
+|[5.2 Activities](01-Lesson-Plans/05-Matplotlib/2/Activities)|[5.2 Slideshow](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit#slide=id.g574fb37171_0_6)|[5.2 Video](https://zoom.us/rec/share/wfG-d0-UnlERvvnmYGtN7Oe7oyHTnqq34uGtR2pLGoutj8_RMBYIDSVOBVRLyI0N.4JLcI-jR4--yNpnW?startTime=1624713331000)|[5.2 Summary](https://drive.google.com/file/d/10BIZWZvM2QSv78_Hgo1jq-7xovS03FCD/view?usp=sharing)
+|[5.3 Activities](01-Lesson-Plans/05-Matplotlib/3/Activities)|[5.3 Slideshow](https://docs.google.com/presentation/d/1pa6h261pEwK6EG0MpmlDpo6DCvAQnqUz1ep1uQEs_e4/edit#slide=id.g574fb37171_0_6)
 
 **Unit 5 Relevant Resources**
 * [Matplotlib](https://matplotlib.org/stable/contents.html)
 * [Matplotlib Markers specific](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html?highlight=plot#matplotlib.pyplot.plot)
 * [Python Matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 * [Python Matplotlib Tutorial](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+* [Mean Median Mode](https://www.w3schools.com/python/python_ml_mean_median_mode.asp)
+* [Python Statistics](https://docs.python.org/3/library/statistics.html)
+* [Visualize quartiles in Python](https://mashimo.wordpress.com/2013/07/21/visualize-quartiles-and-summary-statistics-in-python/)
+* [Delta Degrees of Freedom Explanation](https://docs.google.com/document/d/1fm8RB9on537i5s27ojH6iNSDuNdETwSkWHPcXEsL1PQ/edit?usp=sharing)
 
 
 ### [Unit 6-APIs](01-Lesson-Plans/06-Python-APIs)
