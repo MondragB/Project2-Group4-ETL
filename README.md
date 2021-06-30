@@ -116,6 +116,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Visualize quartiles in Python](https://mashimo.wordpress.com/2013/07/21/visualize-quartiles-and-summary-statistics-in-python/)
 * [Delta Degrees of Freedom Explanation](https://docs.google.com/document/d/1fm8RB9on537i5s27ojH6iNSDuNdETwSkWHPcXEsL1PQ/edit?usp=sharing)
 * [What is SEM?](https://currents.soest.hawaii.edu/ocn_data_analysis/_static/SEM.html)
+* [How to use markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 
 
 ### [Unit 6-APIs](01-Lesson-Plans/06-Python-APIs)
