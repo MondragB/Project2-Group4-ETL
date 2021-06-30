@@ -124,3 +124,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
+|[6.1 Activities](01-Lesson-Plans/06-Python-APIs/Activities)|[6.1Slideshow](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)
