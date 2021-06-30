@@ -104,6 +104,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Matplotlib HW Instructions](02-Homework/05-Matplotlib/Instructions)||[Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)|[Hints and Considerations](https://docs.google.com/document/d/1D8Bx7rWMTBs7yaedkuVgy_EFcNYPngKzSt3LldcgzlE/edit?usp=sharing)
 * [Student Guide](01-Lesson-Plans/05-Matplotlib/StudentGuide.md)
 * [Video Guide](01-Lesson-Plans/05-Matplotlib/VideoGuide.md)
+* [Supplemental](01-Lesson-Plans/05-Matplotlib/Supplemental)
 
 **Unit 5 Relevant Resources**
 * [Matplotlib](https://matplotlib.org/stable/contents.html)
