@@ -128,4 +128,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[6.2 Activities](01-Lesson-Plans/06-Python-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1oIKNTLRt06zkHrXrFyNGr9ICnl3-DrJhrgkEmINPTa4/edit#slide=id.g5b80478fd1_0_0)
 
 **Unit 6 Relevant Resources**
+* [Python & APIs](https://realpython.com/python-api)
+* [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial)
 
