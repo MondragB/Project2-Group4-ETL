@@ -130,4 +130,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 **Unit 6 Relevant Resources**
 * [Python & APIs](https://realpython.com/python-api)
 * [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial)
+* [Online JSON Viewer](http://jsonviewer.stack.hu)
 
