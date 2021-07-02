@@ -131,4 +131,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python & APIs](https://realpython.com/python-api)
 * [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial)
 * [Online JSON Viewer](http://jsonviewer.stack.hu)
+* [Top 50 Most Popular APIs on RapidAPI (2021)](https://rapidapi.com/blog/most-popular-api)
 
