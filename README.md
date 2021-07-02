@@ -124,4 +124,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[6.1 Activities](01-Lesson-Plans/06-Python-APIs/Activities)|[6.1 Slideshow](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)
+|[6.1 Activities](01-Lesson-Plans/06-Python-APIs/1/Activities)|[6.1 Slideshow](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)|[6.1 Video](https://zoom.us/rec/share/8FJ18Q1gg9ZQaOVqQ8EaMBYtGkv2uIAK9StCK8WL1au_1zstTN4q7MqYSdj7HZVD.4qgBkg159PTx7SRe?startTime=1625175953000)|[6.1 Summary](https://drive.google.com/file/d/1rgEsgpCSPU-pAMHmlKi3y1WqYWbTu0h0/view?usp=sharing)
+|[6.2 Activities](01-Lesson-Plans/06-Python-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1oIKNTLRt06zkHrXrFyNGr9ICnl3-DrJhrgkEmINPTa4/edit#slide=id.g5b80478fd1_0_0)
+
+**Unit 6 Relevant Resources**
+
