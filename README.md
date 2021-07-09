@@ -128,7 +128,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[6.2 Activities](01-Lesson-Plans/06-Python-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1oIKNTLRt06zkHrXrFyNGr9ICnl3-DrJhrgkEmINPTa4/edit#slide=id.g5b80478fd1_0_0)|[6.2 Video](https://zoom.us/rec/share/mprvOqu3-OnEfaPeEycdr50dEOXJGlkW7Wh7E1-GDtETWbsCKxFLSNWLdFAQ-1ed.ElEfcq_qqxu77UKg?startTime=1625607931000)|[6.2 Summary](https://drive.google.com/file/d/1sd6JPoEE1Wr3zWZ4TiSQ0EN80DVVnlcx/view?usp=sharing)
 |[6.3 Activities](01-Lesson-Plans/06-Python-APIs/3/Activities)|[6.3 Slideshow](https://docs.google.com/presentation/d/1TSi886_pX1_naQAB89-vIr_fDIaNpJQN_2HFMNeJxic/edit#slide=id.g5c4e05ac5d_0_0)|[6.3 Video]()|[6.3 Summary](https://drive.google.com/file/d/1GPXjQhGTLVqX4g5pjj_ZqvtKV1lsm2QQ/view?usp=sharing)
 
-* Python-APIs HW Instructions](02-Homework/06-Python-APIs/Instructions)|[Video]()|[Rubric](https://docs.google.com/document/d/1Y17QYjs0KMeEPPGd_1BpMjnqXiTaJVeFwqea5ReMdeU/edit)
+* [Python-APIs HW Instructions](02-Homework/06-Python-APIs/Instructions)|[Video]()|[Rubric](https://docs.google.com/document/d/1Y17QYjs0KMeEPPGd_1BpMjnqXiTaJVeFwqea5ReMdeU/edit)
 * [Student Guide](01-Lesson-Plans/06-Python-APIs/StudentGuide.md)
 * [Video Guide](01-Lesson-Plans/06-Python-APIs/VideoGuide.md)
 * [Supplemental](01-Lesson-Plans/06-Python-APIs/Supplemental)
