@@ -147,6 +147,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ### [Unit 7-Project Week 1](01-Lesson-Plans/07-Project-1)
 
-|Activities|Slideshow|Video|Summary|
-|---|---|---|---|
+|Activities|Slideshow|Video|
+|---|---|---|
 
