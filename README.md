@@ -142,5 +142,11 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
 * [Capping Queries](https://docs.google.com/document/d/1jrNE9j4UF3G97v2sRY-YG29_HK9Y0DrhtQVShiIh0aU/edit?usp=sharing)
 * [XML parsing in Python](https://www.geeksforgeeks.org/xml-parsing-python)
-* [API signups](https://docs.google.com/document/d/1BRHir11wFTRvnulwjfTofieLREfYKoVRvy0sjO095p0/edit?usp=sharing)
+* [API Instructions](https://docs.google.com/document/d/1_0jInSjZxLN2DzbEn8wL5rJwBvyUUlidEj_R9NylQwI/edit?usp=sharing)
+
+
+### [Unit 7-Project Week 1](01-Lesson-Plans/07-Project-1)
+
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
 
