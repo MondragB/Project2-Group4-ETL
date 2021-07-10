@@ -149,5 +149,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|
 |---|---|---|
-|[7.1 Activities](01-Lesson-Plans/07-Project-1/1/Activities)|[7.1 Slideshow](https://docs.google.com/presentation/d/1wEDuvk7NWV-M_O0fa-RpVJY77iOW3B68bknvtQei-zA/edit?usp=sharing)
-
+|[7.1 Activities](01-Lesson-Plans/07-Project-1/1/Activities)|[7.1 Slideshow](https://docs.google.com/presentation/d/1wEDuvk7NWV-M_O0fa-RpVJY77iOW3B68bknvtQei-zA/edit?usp=sharing)|[7.2 Video](https://zoom.us/rec/share/yh6UDZJ0UkmjhRyjjtq4sZosPT7RaduBXHgKp3aw7Y6Xiw3y6kIXtrmvpeXJHHyA.e2fs8To6qfx7WsN5?startTime=1625922928000)
+|[7.2 Activities](01-Lesson-Plans/07-Project-1/2/Activities)|[7.2 Slideshow](https://docs.google.com/presentation/d/1E1BLzBzc56YO6N2PnRvsJLYuFPpMVvySufm-R9FiFXM/edit#slide=id.g473a132ac1_0_7)
