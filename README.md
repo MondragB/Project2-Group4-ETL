@@ -156,3 +156,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [MichaelDesantis/No-Nonsense-Github-Project](https://github.com/MichaelDesantis/No-Nonsense-Github-Project)
 * [Usable Databases A DataSN Website](https://www.usabledatabases.com)
 * [GitHub branches and merging](https://docs.google.com/document/d/1VM6Q-oXl9WSb8iaQ-GEuDHkAdFpciONZSr3IGQpGIAw/edit?usp=sharing)
+* [Project Ideas](https://docs.google.com/document/d/1Je4DrPu7KGWIsJSjcjcRmnUBwiMP6cfpPZhy7GBVlsQ/edit?usp=sharing)
