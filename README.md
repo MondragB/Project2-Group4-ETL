@@ -157,3 +157,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Usable Databases A DataSN Website](https://www.usabledatabases.com)
 * [GitHub branches and merging](https://docs.google.com/document/d/1VM6Q-oXl9WSb8iaQ-GEuDHkAdFpciONZSr3IGQpGIAw/edit?usp=sharing)
 * [Project Ideas](https://docs.google.com/document/d/1Je4DrPu7KGWIsJSjcjcRmnUBwiMP6cfpPZhy7GBVlsQ/edit?usp=sharing)
+* [Project Proposal Guide](https://docs.google.com/document/d/17SHTnyth-qKp_ENBpF-CcReJkh1SWBzvqjvJRx3F_7A/edit?usp=sharing)
