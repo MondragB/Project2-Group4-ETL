@@ -150,7 +150,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|
 |---|---|---|
 |[7.1 Activities](01-Lesson-Plans/07-Project-1/1/Activities)|[7.1 Slideshow](https://docs.google.com/presentation/d/1wEDuvk7NWV-M_O0fa-RpVJY77iOW3B68bknvtQei-zA/edit?usp=sharing)|[7.2 Video](https://zoom.us/rec/share/yh6UDZJ0UkmjhRyjjtq4sZosPT7RaduBXHgKp3aw7Y6Xiw3y6kIXtrmvpeXJHHyA.e2fs8To6qfx7WsN5?startTime=1625922928000)
-|[7.2 Activities](01-Lesson-Plans/07-Project-1/2/Activities)|[7.2 Slideshow](https://docs.google.com/presentation/d/1E1BLzBzc56YO6N2PnRvsJLYuFPpMVvySufm-R9FiFXM/edit#slide=id.g473a132ac1_0_7)
+|[7.2 Activities](01-Lesson-Plans/07-Project-1/2/Activities)|[7.2 Slideshow](https://docs.google.com/presentation/d/1E1BLzBzc56YO6N2PnRvsJLYuFPpMVvySufm-R9FiFXM/edit#slide=id.g473a132ac1_0_7)|[7.2 video](https://zoom.us/rec/share/_NoDPQXOcXtQ2-HXXylDfMo5jWiXKkEOnPC2oVvyA3PjJn3Hvp41AG68uRWq6u1U.5uCWQJ6ghrPm8DYs?startTime=1626212751000)
+|[7.3 Activities](01-Lesson-Plans/07-Project-1/3/Activities)|[7.3 Slideshow](https://docs.google.com/presentation/d/1RXOJcnkFXZwOBi6R5RU0EDt9NmP9bwEv1JqEhW7tezU/edit#slide=id.g8580bc45d2_0_0)
 
 **Unit 7 Relevant Resources**
 * [MichaelDesantis/No-Nonsense-Github-Project](https://github.com/MichaelDesantis/No-Nonsense-Github-Project)
@@ -158,3 +159,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [GitHub branches and merging](https://docs.google.com/document/d/1VM6Q-oXl9WSb8iaQ-GEuDHkAdFpciONZSr3IGQpGIAw/edit?usp=sharing)
 * [Project Ideas](https://docs.google.com/document/d/1Je4DrPu7KGWIsJSjcjcRmnUBwiMP6cfpPZhy7GBVlsQ/edit?usp=sharing)
 * [Project Proposal Guide](https://docs.google.com/document/d/17SHTnyth-qKp_ENBpF-CcReJkh1SWBzvqjvJRx3F_7A/edit?usp=sharing)
+* [How can I rollback a git repository to a specific commit?](https://stackoverflow.com/questions/4372435/how-can-i-rollback-a-git-repository-to-a-specific-commit)
