@@ -160,8 +160,11 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Project Ideas](https://docs.google.com/document/d/1Je4DrPu7KGWIsJSjcjcRmnUBwiMP6cfpPZhy7GBVlsQ/edit?usp=sharing)
 * [Project Proposal Guide](https://docs.google.com/document/d/17SHTnyth-qKp_ENBpF-CcReJkh1SWBzvqjvJRx3F_7A/edit?usp=sharing)
 * [How can I rollback a git repository to a specific commit?](https://stackoverflow.com/questions/4372435/how-can-i-rollback-a-git-repository-to-a-specific-commit)
+* [Git Branch - Creating, Deleting  Branches | W3Docs  Git Tutorial](https://www.w3docs.com/learn-git/git-branch.html)
 
 ### [Unit 8-Project 1 Week 2](01-Lesson-Plans/08-Project-1)
+* [Installation Guide](https://docs.google.com/document/d/1q64XUqlLGZma_5fwIOwfniCQ-zln6wPBFHmX-9Nnq_U/edit?usp=sharing)
+* * [Installation Guide](https://docs.google.com/document/d/1q64XUqlLGZma_5fwIOwfniCQ-zln6wPBFHmX-9Nnq_U/edit?usp=sharing)
 
 |Activities|Slideshow|Video|
 |---|---|---|
