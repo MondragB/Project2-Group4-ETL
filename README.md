@@ -163,8 +163,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Git Branch - Creating, Deleting  Branches | W3Docs  Git Tutorial](https://www.w3docs.com/learn-git/git-branch.html)
 
 ### [Unit 8-Project 1 Week 2](01-Lesson-Plans/08-Project-1)
-* [Installation Guide](https://docs.google.com/document/d/1q64XUqlLGZma_5fwIOwfniCQ-zln6wPBFHmX-9Nnq_U/edit?usp=sharing)
-* * [Installation Guide](https://docs.google.com/document/d/1q64XUqlLGZma_5fwIOwfniCQ-zln6wPBFHmX-9Nnq_U/edit?usp=sharing)
 
 |Activities|Slideshow|Video|
 |---|---|---|
