@@ -164,6 +164,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ### [Unit 8-Project 1 Week 2](01-Lesson-Plans/08-Project-1)
 
-|Activities|Slideshow|Video|
+|Activities|Slideshow|Projects Video|
 |---|---|---|
-|[8.1 Activities](01-Lesson-Plans/08-Project-1/1/Activities)|[8.1 Slideshow](https://docs.google.com/presentation/d/1yBexCgmWs_N8gafA6guYNot4f204wKCcE4PYJxIHEtA/edit#slide=id.g862eed6aea_0_5)
+|[8.1 Activities](01-Lesson-Plans/08-Project-1/1/Activities)|[8.1 Slideshow](https://docs.google.com/presentation/d/1yBexCgmWs_N8gafA6guYNot4f204wKCcE4PYJxIHEtA/edit#slide=id.g862eed6aea_0_5)|[8.3 Projects  Video](https://zoom.us/rec/share/elmhBihNdXzyZ7gKJrfUmiDhmZe-a0m1ji2fl7l0QUtEN9zR06kLLHt8PeE5Vq28.6qzSSVIK-pV9Lm6v?startTime=1626990337000)
