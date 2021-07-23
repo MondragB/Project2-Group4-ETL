@@ -171,7 +171,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ###[Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
 
 |Activities|Slideshow|Video|Summary|
-|---|---|---|
+|---|---|---|---|
 |[9.1 Activities](01-Lesson-Plans/09-SQL/1/Activities)|[9.1 Slideshow](https://docs.google.com/presentation/d/1IhtPr1-L0J-AAToJeO8THcFPQhCwO2XlWkDJt7cXoKo/edit#slide=id.g87fb0db4f2_0_0)
 
 * [Student Guide](01-Lesson-Plans/09-SQL/StudentGuide.md)
