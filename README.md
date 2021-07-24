@@ -182,3 +182,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [SQL Tutorial](https://www.sqltutorial.org/sql-cheat-sheet/)
 * [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [PostgreSQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
+* [Visual of SQL JOINS](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
