@@ -176,3 +176,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 * [Student Guide](01-Lesson-Plans/09-SQL/StudentGuide.md)
 * [Supplemental](01-Lesson-Plans/09-SQL/Supplemental)
+
+**Unit 9 Relevant Resources**
+* [SQL Tutorial](https://www.sqltutorial.org/sql-cheat-sheet/)
+* [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+* [PostgreSQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
