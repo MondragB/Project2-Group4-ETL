@@ -185,3 +185,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [PostgreSQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
 * [Visual of SQL JOINS](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+* [Quick Database Designs (ERD creator)](https://app.quickdatabasediagrams.com/#/)
+* [Entity Relationship(ER) Model](https://www.w3schools.in/dbms/er-model/)
+* [Atomic Database Values - How small is small enough?](https://databasedesign-resource.com/atomic-database-values.html)
+* [What is Atomicity](https://www.techopedia.com/definition/24729/atomicity)
