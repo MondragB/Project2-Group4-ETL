@@ -175,7 +175,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|---|
 |[9.1 Activities](01-Lesson-Plans/09-SQL/1/Activities)|[9.1 Slideshow](https://docs.google.com/presentation/d/1IhtPr1-L0J-AAToJeO8THcFPQhCwO2XlWkDJt7cXoKo/edit#slide=id.g87fb0db4f2_0_0)|[9.1 Video](https://zoom.us/rec/share/YScIff99A0SrhiYihdlZ5ovoFCkvrn-Gm9Andpyo_r-PlXKjt2Ukoe6Rch_of9Fh.X4BNaM7weFRytQWY?startTime=1627132612000)|[9.1 Summary](https://drive.google.com/file/d/1kl5MEIEnQMc7eYW1YRezyGKVh3R2m40E/view?usp=sharing)
 |[9.2 Activities](01-Lesson-Plans/09-SQL/2/Activities)|[9.2 Slideshow](https://docs.google.com/presentation/d/1ECRAKV4eZSiMhGpcyFiSe3-ERb5AjeSaHDAF4WwCGZM/edit#slide=id.g88c1dc63f9_0_0)|[9.2 Video](https://zoom.us/rec/share/bPd5Vn0IyRwAxfewPXbsIa988T1pfaPO3itD8XD7S7QI0FH15tYTuO1y9nsnvgMY.yayl7Rw_GsHk96vp?startTime=1627422368000)|[9.2 Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
-|[9.3 Activities](01-Lesson-Plans/09-SQL/3/Activities)|[9.3 Slideshow](https://docs.google.com/presentation/d/1X72l_-j7OKOaploPA-8hLjoEn0e0O0iNHaVaty4qJxs/edit#slide=id.g8a174be39f_0_0)|[9.3 Video]()|[9.3 Summary]()
+|[9.3 Activities](01-Lesson-Plans/09-SQL/3/Activities)|[9.3 Slideshow](https://docs.google.com/presentation/d/1UxalZcBaKzBybBSD26B_hmu1sjG7MV9zBDY3FH-thyc/edit#slide=id.g8a174be39f_0_0)|[9.3 Video]()|[9.3 Summary]()
 
 * [Student Guide](01-Lesson-Plans/09-SQL/StudentGuide.md)
 * [Supplemental](01-Lesson-Plans/09-SQL/Supplemental)
