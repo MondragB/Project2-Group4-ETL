@@ -197,3 +197,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Normalization - 1NF, 2NF, 3NF and 4NF](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 * [Database Normalization – in Easy to Understand English](https://www.essentialsql.com/database-normalization/)
 * [Python – Import module from different directory](https://www.geeksforgeeks.org/python-import-module-from-different-directory/)
+
+### [Unit 10-Advanced-Data-Storage-and-Retrieval](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval)
+* [Prerequisites](https://docs.google.com/document/d/1onb7I5flShGjear_xiLTPt7a_7DfExSPcvkjvwgkq-A/edit?usp=sharing)
+
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[10.1 Activities](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/Activities)|[10.1 Slideshow](https://docs.google.com/presentation/d/1h8PkezJoa70IwaygZVO-SMTXovB1frZlC3udsL3zlIQ/edit#slide=id.g480f0dd0a7_0_1809)
