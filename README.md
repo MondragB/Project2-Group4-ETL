@@ -211,3 +211,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python OOP Tutorial 1: Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
 * [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 * [Python Class Inheritance](https://towardsdatascience.com/python-class-inheritance-62fdb33ede47)
+* [W3 Schools Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
