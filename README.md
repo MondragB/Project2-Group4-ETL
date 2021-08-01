@@ -213,3 +213,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python Class Inheritance](https://towardsdatascience.com/python-class-inheritance-62fdb33ede47)
 * [W3 Schools Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
 * [Introduction to SQLAlchemy](https://www.youtube.com/watch?v=woKYyhLCcnU)
+* [Essential SQLAlchemy Book](http://shop.oreilly.com/product/0636920035800.do)
+* [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
