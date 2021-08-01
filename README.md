@@ -203,4 +203,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[10.1 Activities](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/Activities)|[10.1 Slideshow](https://docs.google.com/presentation/d/1h8PkezJoa70IwaygZVO-SMTXovB1frZlC3udsL3zlIQ/edit#slide=id.g480f0dd0a7_0_1809)
+|[10.1 Activities](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/Activities)|[10.1 Slideshow](https://docs.google.com/presentation/d/1h8PkezJoa70IwaygZVO-SMTXovB1frZlC3udsL3zlIQ/edit#slide=id.g480f0dd0a7_0_1809)|[10.1 Video](https://zoom.us/rec/share/fNr6QNDB7QlqGwS0qbpiS6QJwFDXGYsOP2LL3XbFEbEMF6ytnE89vWWoKWC3xMvv.OlAHk62vuwglJchW?startTime=1627737323000)|[10.1 Summary]()
