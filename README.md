@@ -204,4 +204,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[10.1 Activities](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/Activities)|[10.1 Slideshow](https://docs.google.com/presentation/d/1h8PkezJoa70IwaygZVO-SMTXovB1frZlC3udsL3zlIQ/edit#slide=id.g480f0dd0a7_0_1809)|[10.1 Video](https://zoom.us/rec/share/fNr6QNDB7QlqGwS0qbpiS6QJwFDXGYsOP2LL3XbFEbEMF6ytnE89vWWoKWC3xMvv.OlAHk62vuwglJchW?startTime=1627737323000)|[10.1 Summary](https://drive.google.com/file/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/view?usp=sharing)
-|[10.2 Activities](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/Activities)|[10.2 Slideshow](https://docs.google.com/presentation/d/1d0KRjGm0cFGZQP5Yqj_AUuoBr97PBPWY2u2Bw8dqZUk/edit#slide=id.g480f0dd0a7_0_1809)|[10.2 Video]()|10.2 Summary]()
+|[10.2 Activities](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/Activities)|[10.2 Slideshow](https://docs.google.com/presentation/d/1d0KRjGm0cFGZQP5Yqj_AUuoBr97PBPWY2u2Bw8dqZUk/edit#slide=id.g480f0dd0a7_0_1809)|[10.2 Video]()|[10.2 Summary]()
+
+**Unit 10 Relevant Resources**
+* [Dunder/Magic Methods in Python](https://www.section.io/engineering-education/dunder-methods-python/)
+* [Python OOP Tutorial 1: Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+* [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
+* [Python Class Inheritance](https://towardsdatascience.com/python-class-inheritance-62fdb33ede47)
