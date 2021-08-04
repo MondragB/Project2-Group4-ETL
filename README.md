@@ -216,5 +216,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Introduction to SQLAlchemy](https://www.youtube.com/watch?v=woKYyhLCcnU)
 * [Essential SQLAlchemy Book](http://shop.oreilly.com/product/0636920035800.do)
 * [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-* [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started]
-(https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+* [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
