@@ -209,7 +209,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 * [Advanced-Data-Storage-and-Retrieva HW Instructions](02-Homework/10-Advanced-Data-Storage-and-Retrieval/Instructions)|[Video](https://zoom.us/rec/share/Rsy-nsgQeWcuxXA7n0nOlfSAvlJTv09NXXFgegyUedjtJNa0YA0z8uLF6oMnMtZs.60rxtKdzj2YDx_HW?startTime=1628214312000)|[Rubric](https://docs.google.com/document/d/1gT29iMF3avSvJruKpcHY4qovP5QitgXePqtjC6XESI0/edit)
 * [Student Guide](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/StudentGuide.md)
-* [Supplemental](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieva/Supplemental)
 
 **Unit 10 Relevant Resources**
 * [Dunder/Magic Methods in Python](https://www.section.io/engineering-education/dunder-methods-python/)
