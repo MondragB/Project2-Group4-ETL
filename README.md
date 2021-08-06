@@ -228,3 +228,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[11.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1i-QXlNque9qS78xbqd7iMJbKkOlfIfAvsOXaERCsNMk/edit#slide=id.g8aea8b50d5_0_0)|[11.1 Video]()|[11.1 Summary]()
+
+**Unit 11 Relevant Resources**
+* [Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CodeAcademy HTML and CSS](https://www.codecademy.com/catalog/language/html-css)
+* [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
