@@ -222,3 +222,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * [list of SQLAlchemy func options](https://docs.sqlalchemy.org/en/14/core/functions.html)
 * [How a Flask app works](https://pythonhow.com/how-a-flask-app-works/)
+
+### [Unit 11-Web](01-Lesson-Plans/11-Web)
+
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[11.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1i-QXlNque9qS78xbqd7iMJbKkOlfIfAvsOXaERCsNMk/edit#slide=id.g8aea8b50d5_0_0)|[11.1 Video]()|[11.1 Summary]()
