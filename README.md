@@ -227,7 +227,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[11.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1i-QXlNque9qS78xbqd7iMJbKkOlfIfAvsOXaERCsNMk/edit#slide=id.g8aea8b50d5_0_0)|[11.1 Video]()|[11.1 Summary]()
+|[11.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1i-QXlNque9qS78xbqd7iMJbKkOlfIfAvsOXaERCsNMk/edit#slide=id.g8aea8b50d5_0_0)|[11.1 Video](https://zoom.us/rec/share/uUtFkkqO7O3oZGo3m61gwy0kTkDCgPvsIFTggA8EX4LZS-e4LYNTK0pmD7WxpM36.-ceBo-wPLj3UPZJ7?startTime=1628342143000)|[11.1 Summary](https://drive.google.com/file/d/1JHrYi-JiXbdONxut2I8sY-pyAYLoFi8w/view?usp=sharing)
 
 **Unit 11 Relevant Resources**
 * [Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
