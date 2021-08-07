@@ -233,3 +233,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CodeAcademy HTML and CSS](https://www.codecademy.com/catalog/language/html-css)
 * [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
+* [Basic HTML tags - Top 10 tags](https://www.codebrainer.com/blog/top-10-html-tags)
+* [HTML a target Attribute](https://www.w3schools.com/tags/att_a_target.asp)
+* [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
+  
