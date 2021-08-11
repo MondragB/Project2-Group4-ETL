@@ -228,8 +228,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[11.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1vjJOxygJKvgj2-XsaBq98BI10I-4u7bfXpmWJ0drd6o/edit#slide=id.g8aea8b50d5_0_0)|[11.1 Video](https://zoom.us/rec/share/uUtFkkqO7O3oZGo3m61gwy0kTkDCgPvsIFTggA8EX4LZS-e4LYNTK0pmD7WxpM36.-ceBo-wPLj3UPZJ7?startTime=1628342143000)|[11.1 Summary](https://drive.google.com/file/d/1JHrYi-JiXbdONxut2I8sY-pyAYLoFi8w/view?usp=sharing)
-|[11.2 Activities](01-Lesson-Plans/11-Web/2/)|[11.2 Slideshow](https://docs.google.com/presentation/d/1GfR6zMkrNdpm9Dwe0hQgDtB82i8Ab82Sc469XzSw8c8/edit#slide=id.g8b486c8e50_0_0)|[11.2 Video]()|[11.2 Summary]()
-
+|[11.2 Activities](01-Lesson-Plans/11-Web/2/)|[11.2 Slideshow](https://docs.google.com/presentation/d/1GfR6zMkrNdpm9Dwe0hQgDtB82i8Ab82Sc469XzSw8c8/edit#slide=id.g8b486c8e50_0_0)|[11.2 Video](https://zoom.us/rec/share/MHCqbQkkiT9uS-GUfd074t3LmdHUjxPzxKP9aSpV5SVSbfU4IHdxQy-TyS7qMdxs._KCPNsIIUDb02E77?startTime=1628631929000)|[11.2 Summary](https://docs.google.com/document/d/1q-K6yBTkx2hRuk6I2CpUmyYF3fM1JO8I/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[113 Activities](01-Lesson-Plans/11-Web/3/)|[11.3 Slideshow](https://docs.google.com/presentation/d/1p_l-eCkT-Z1RCQeUyIjmSCbJbAhr4cbgmvA94HiCNqE/edit#slide=id.g8bee61140a_0_0)|[11.3 Video]()|[11.3 Summary]()
 **Unit 11 Relevant Resources**
 * [Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CodeAcademy HTML and CSS](https://www.codecademy.com/catalog/language/html-css)
