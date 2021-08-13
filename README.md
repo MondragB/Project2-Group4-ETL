@@ -247,7 +247,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [CSS @media Rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 * [getbootstrap.com Introduction](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
-###[Unit 12 - Web Scraping and Document Databases](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases)
+### [Unit 12 - Web Scraping and Document Databases](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases)
 * [Installations](https://docs.google.com/document/d/1ll-i9mi0a-TW4J3D_3YK6-EbuXaTmj0Pr1wWJOnIaD4/edit?usp=sharing)
 
 |Activities|Slideshow|Video|Summary|
