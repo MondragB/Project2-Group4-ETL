@@ -252,4 +252,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[12.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[12.1 Slideshow](https://docs.google.com/presentation/d/1PSATuHbeajlIU-D8D_NAP_6kGfIAVHZcpl7KBLjOwzo/edit#slide=id.g8c49f94aaf_0_0)|[12.1 Video]()|[12.1 Summary]()  
+|[12.1 Activities](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/1/Activities)|[12.1 Slideshow](https://docs.google.com/presentation/d/1PSATuHbeajlIU-D8D_NAP_6kGfIAVHZcpl7KBLjOwzo/edit#slide=id.g8c49f94aaf_0_0)|[12.1 Video]()|[12.1 Summary]()  
