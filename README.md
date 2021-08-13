@@ -246,4 +246,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Need Lorem Ipsum?](https://css-tricks.com/need-lorem-ipsum-inside-html/)
 * [CSS @media Rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 * [getbootstrap.com Introduction](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-  
+
+###[Unit 12 - Web Scraping and Document Databases](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases)
+* [Installations](https://docs.google.com/document/d/1ll-i9mi0a-TW4J3D_3YK6-EbuXaTmj0Pr1wWJOnIaD4/edit?usp=sharing)
+
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[12.1 Activities](01-Lesson-Plans/11-Web/1/Activities)|[12.1 Slideshow](https://docs.google.com/presentation/d/1PSATuHbeajlIU-D8D_NAP_6kGfIAVHZcpl7KBLjOwzo/edit#slide=id.g8c49f94aaf_0_0)|[12.1 Video]()|[12.1 Summary]()  
