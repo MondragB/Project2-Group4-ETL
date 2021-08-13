@@ -238,4 +238,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [HTML a target Attribute](https://www.w3schools.com/tags/att_a_target.asp)
 * [HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
 * [GitHub Pages](https://pages.github.com/)
+* [Need Lorem Ipsum?](https://css-tricks.com/need-lorem-ipsum-inside-html/)
+* [CSS @media Rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+* [getbootstrap.com Introduction](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
   
