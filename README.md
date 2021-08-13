@@ -231,9 +231,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[11.2 Activities](01-Lesson-Plans/11-Web/2/)|[11.2 Slideshow](https://docs.google.com/presentation/d/1GfR6zMkrNdpm9Dwe0hQgDtB82i8Ab82Sc469XzSw8c8/edit#slide=id.g8b486c8e50_0_0)|[11.2 Video](https://zoom.us/rec/share/MHCqbQkkiT9uS-GUfd074t3LmdHUjxPzxKP9aSpV5SVSbfU4IHdxQy-TyS7qMdxs._KCPNsIIUDb02E77?startTime=1628631929000)|[11.2 Summary](https://docs.google.com/document/d/1q-K6yBTkx2hRuk6I2CpUmyYF3fM1JO8I/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[11.3 Activities](01-Lesson-Plans/11-Web/3/)|[11.3 Slideshow](https://docs.google.com/presentation/d/1p_l-eCkT-Z1RCQeUyIjmSCbJbAhr4cbgmvA94HiCNqE/edit#slide=id.g8bee61140a_0_0)|[11.3 Video](https://zoom.us/rec/share/OyOjdkJ6vAAEcBOzPZcujorsyqHZDfj3bZKcw-tQglfTJUmoi7fgpZMyfaZrbjYE.0M-K9S9x9jcB2cM_?startTime=1628802602000)|[11.3 Summary](https://docs.google.com/document/d/1PUUax8xBwGMpXQaAmNMIF__kBXePOcp7/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
-* [Web HW Instructions](02-Homework/11-Web/Instructions)|[Video]()|[Rubric]()
+* [Web HW Instructions](02-Homework/11-Web/Instructions)|[Video](https://zoom.us/rec/share/OyOjdkJ6vAAEcBOzPZcujorsyqHZDfj3bZKcw-tQglfTJUmoi7fgpZMyfaZrbjYE.0M-K9S9x9jcB2cM_?startTime=1628818276000)|[Rubric](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit)
 * [Student Guide](01-Lesson-Plans/11-Web/StudentGuide.md)
-* [Supplemental](01-Lesson-Plans/11-Web/Supplemental)
+
 
 **Unit 11 Relevant Resources**
 * [Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
