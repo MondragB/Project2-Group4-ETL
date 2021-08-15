@@ -260,3 +260,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 **Unit 12 Relevant Resources**
 * [Mongo DB Tutorial](https://studio3t.com/academy/)
 * [Here's how you can delete items from an array](https://docs.mongodb.com/manual/reference/operator/update/pull/)
+* [mongodb commands](https://docs.google.com/document/d/1z5CBZez4VVlI8qh_0vl407C7efnyxSDTwwtViM80LGk/edit?usp=sharing)
