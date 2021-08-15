@@ -254,3 +254,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|---|
 |[12.1 Activities](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/1/Activities)|[12.1 Slideshow](https://docs.google.com/presentation/d/1PSATuHbeajlIU-D8D_NAP_6kGfIAVHZcpl7KBLjOwzo/edit#slide=id.g8c49f94aaf_0_0)|[12.1 Video](https://zoom.us/rec/share/sxLuk0cGp37PEMcFU8NRBh05fSbFmHJSliIuuLy4b5CMlOOMJ4URfjK2MrMgrxYz.X_eFbddbQyXFaVKe?startTime=1628946981000)|[12.1 Summary](https://docs.google.com/document/d/1GGl2e-n3XfbP87UmDjZ84GYCJt5x2uFG/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)  
 |[12.2 Activities](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2/Activities)|[12.2 Slideshow](https://docs.google.com/presentation/d/13y-zxFjmDdW8J0FWDn8cbc1AOOS78B-renQpaY58zUg/edit#slide=id.g8ee4498251_0_0)|[12.1 Video]()|[12.1 Summary]()  
+
+**Unit 12 Relevant Resources**
+* [Mongo DB Tutorial](https://studio3t.com/academy/)
+* [Here's how you can delete items from an array](https://docs.mongodb.com/manual/reference/operator/update/pull/)
