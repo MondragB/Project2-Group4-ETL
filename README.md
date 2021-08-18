@@ -263,4 +263,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Here's how you can delete items from an array](https://docs.mongodb.com/manual/reference/operator/update/pull/)
 * [mongodb commands](https://docs.google.com/document/d/1z5CBZez4VVlI8qh_0vl407C7efnyxSDTwwtViM80LGk/edit?usp=sharing)
 * [PyMongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
-* [Slinter Docs](https://splinter.readthedocs.io/en/latest/)
+* [Splinter Docs](https://splinter.readthedocs.io/en/latest/)
