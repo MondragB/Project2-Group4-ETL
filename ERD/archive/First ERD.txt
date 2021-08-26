@@ -1,0 +1,101 @@
+movies_data
+-
+id integer pk
+imdb_id varchar(12)
+budget float
+original_language varchar(2)
+original_title varchar(100)
+overview varchar(200)
+popularity float
+release_date date
+revenue float
+runtime integer
+status boolean
+title varchar(100)
+video boolean
+
+keywords
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+keyword varchar(30)
+
+cast
+-
+rec_key integer pk
+cast_id integer
+movie_id integer fk >- movies_data.id
+character varchar(30)
+name varchar(30)
+gender varchar(10)
+order integer
+profile_path varchar(100)
+
+crew
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+department varchar(30)
+job varchar(30)
+name varchar(30)
+gender varchar(10)
+profile_path varchar(100)
+
+genres
+-
+genre_id integer pk
+genre varchar(30)
+
+production_companies
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+name varchar(30)
+comp_id integer
+
+production_countries
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+iso_3166 varchar(2)
+country varchar(30)
+
+spoken_languages
+-
+rec-key integer pk
+movie_id integer fk >- movies_data.id
+iso_639_1 varchar(2)
+language varchar(30)
+
+ratings
+-
+movie_id integer fk - movies_data.id
+ratings_count integer
+avg_rating float
+median_rating float
+
+genre_movie_junction
+-
+rec_key integer pk
+movie_id integer fk - movies_data.id
+genre_id integer fk - genres.genre_id
+
+
+country_movie_junction
+-
+movie_id integer fk - movies_data.id
+iso_3166 varchar(2) 
+
+country_codes
+-
+iso_3166 varchar(2) pk
+country varchar(30)
+
+company_movie_junction
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+comp_id integer
+
+
+

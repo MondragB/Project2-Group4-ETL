@@ -1,0 +1,83 @@
+﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+
+
+CREATE TABLE "movies_data" (
+    "id" integer   NOT NULL,
+    "imdb_id" varchar(12)   NOT NULL,
+    "budget" float   NOT NULL,
+    "original_language" varchar(2)   NOT NULL,
+    "original_title" varchar(100)   NOT NULL,
+    "overview" varchar(200)   NOT NULL,
+    "popularity" float   NOT NULL,
+    "release_date" date   NOT NULL,
+    "revenue" float   NOT NULL,
+    "runtime" integer   NOT NULL,
+    "status" boolean   NOT NULL,
+    "title" varchar(100)   NOT NULL,
+    "video" boolean   NOT NULL,
+    CONSTRAINT "pk_movies_data" PRIMARY KEY (
+        "id"
+     )
+);
+
+CREATE TABLE "keywords" (
+    "keyword_id" integer   NOT NULL,
+    "word" varchar(45)   NOT NULL,
+    CONSTRAINT "pk_keywords" PRIMARY KEY (
+        "keyword_id"
+     )
+);
+
+CREATE TABLE "keyword_movie_junction" (
+    "rec_key" integer   NOT NULL,
+    "movie_id" integer   NOT NULL,
+    "keyword_id" integer   NOT NULL,
+    CONSTRAINT "pk_keyword_movie_junction" PRIMARY KEY (
+        "rec_key"
+     )
+);
+
+CREATE TABLE "spoken_languages" (
+    "rec-key" integer   NOT NULL,
+    "iso_639_1" varchar(2)   NOT NULL,
+    "language" varchar(30)   NOT NULL,
+    CONSTRAINT "pk_spoken_languages" PRIMARY KEY (
+        "rec-key"
+     )
+);
+
+CREATE TABLE "lang_movie_juction" (
+    "rec_key" integer   NOT NULL,
+    "movie_id" integer   NOT NULL,
+    "iso_639_1" varchar(2)   NOT NULL,
+    CONSTRAINT "pk_lang_movie_juction" PRIMARY KEY (
+        "rec_key"
+     )
+);
+
+CREATE TABLE "ratings" (
+    "movie_id" integer   NOT NULL,
+    "ratings_count" integer   NOT NULL,
+    "avg_rating" float   NOT NULL,
+    "median_rating" float   NOT NULL,
+    CONSTRAINT "pk_ratings" PRIMARY KEY (
+        "movie_id"
+     )
+);
+
+ALTER TABLE "keyword_movie_junction" ADD CONSTRAINT "fk_keyword_movie_junction_movie_id" FOREIGN KEY("movie_id")
+REFERENCES "movies_data" ("id");
+
+ALTER TABLE "keyword_movie_junction" ADD CONSTRAINT "fk_keyword_movie_junction_keyword_id" FOREIGN KEY("keyword_id")
+REFERENCES "keywords" ("keyword_id");
+
+ALTER TABLE "lang_movie_juction" ADD CONSTRAINT "fk_lang_movie_juction_movie_id" FOREIGN KEY("movie_id")
+REFERENCES "movies_data" ("id");
+
+ALTER TABLE "lang_movie_juction" ADD CONSTRAINT "fk_lang_movie_juction_iso_639_1" FOREIGN KEY("iso_639_1")
+REFERENCES "spoken_languages" ("iso_639_1");
+
+ALTER TABLE "ratings" ADD CONSTRAINT "fk_ratings_movie_id" FOREIGN KEY("movie_id")
+REFERENCES "movies_data" ("id");
+

@@ -1,0 +1,32 @@
+movies_data
+-
+id integer pk
+imdb_id varchar(12)
+budget float
+original_language varchar(2)
+original_title varchar(100)
+overview varchar(200)
+popularity float
+release_date date
+revenue float
+runtime integer
+status boolean
+title varchar(100)
+video boolean
+
+
+
+genres
+-
+genre_id integer pk
+genre varchar(30)
+
+
+
+genre_movie_junction
+-
+rec_key integer pk
+movie_id integer fk - movies_data.id
+genre_id integer fk - genres.genre_id
+
+

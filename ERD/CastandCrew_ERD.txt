@@ -1,0 +1,43 @@
+movies_data
+-
+id integer pk
+imdb_id varchar(12)
+budget float
+original_language varchar(2)
+original_title varchar(100)
+overview varchar(200)
+popularity float
+release_date date
+revenue float
+runtime integer
+status boolean
+title varchar(100)
+video boolean
+
+
+cast_movie_junction
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+character varchar(30)
+order interger
+actor_id integer fk >- actors.actor_id
+
+actors
+-
+actor_id integer PK
+name varchar(30)
+gender boolean
+
+crew_movie_junction
+-
+movie_id integer fk >- movies_data.id
+department varcahr(30)
+job varchar(30)
+crew_id integer fk >- crew.crew_id
+
+crew
+-
+crew_id interger pk
+name varchar(30)
+gender boolean

@@ -1,0 +1,38 @@
+movies_data
+-
+id integer pk
+imdb_id varchar(12)
+budget float
+original_language varchar(2)
+original_title varchar(100)
+overview varchar(200)
+popularity float
+release_date date
+revenue float
+runtime integer
+status boolean
+title varchar(100)
+video boolean
+
+production_companies
+-
+name varchar(30)
+comp_id integer pk
+
+production_countries
+-
+iso_3166 varchar(2) pk
+country varchar(30)
+
+
+country_movie_junction
+-
+rec_key integer pk
+movie_id integer fk - movies_data.id
+iso_3166 varchar(2) fk >- production_countries.iso_3166
+
+company_movie_junction
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+comp_id integer fk >- production_companies.comp_id

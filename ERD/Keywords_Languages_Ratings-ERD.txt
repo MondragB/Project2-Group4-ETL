@@ -1,0 +1,47 @@
+movies_data
+-
+id integer pk
+imdb_id varchar(12)
+budget float
+original_language varchar(2)
+original_title varchar(100)
+overview varchar(200)
+popularity float
+release_date date
+revenue float
+runtime integer
+status boolean
+title varchar(100)
+video boolean
+
+keywords
+-
+keyword_id integer pk 
+word varchar(45)
+
+keyword_movie_junction
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+keyword_id integer fk >- keywords.keyword_id
+
+
+spoken_languages
+-
+rec-key integer pk
+iso_639_1 varchar(2)
+language varchar(30)
+
+lang_movie_juction
+-
+rec_key integer pk
+movie_id integer fk >- movies_data.id
+iso_639_1 varchar(2) fk >- spoken_languages.iso_639_1
+
+
+ratings
+-
+movie_id integer pk fk - movies_data.id
+ratings_count integer
+avg_rating float
+median_rating float
