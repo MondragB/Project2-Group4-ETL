@@ -30,24 +30,24 @@ CREATE TABLE "production_companies" (
 );
 
 CREATE TABLE "production_countries" (
-    "iso_3166" varchar(2)   NOT NULL,
+    "iso_3166_1" varchar(2)   NOT NULL,
     "country" varchar(30)   NOT NULL,
     CONSTRAINT "pk_production_countries" PRIMARY KEY (
-        "iso_3166"
+        "iso_3166_1"
      )
 );
 
 CREATE TABLE "country_movie_junction" (
-    "rec_key" integer   NOT NULL,
+    "rec_key" serial   NOT NULL,
     "movie_id" integer   NOT NULL,
-    "iso_3166" varchar(2)   NOT NULL,
+    "iso_3166_1" varchar(2)   NOT NULL,
     CONSTRAINT "pk_country_movie_junction" PRIMARY KEY (
         "rec_key"
      )
 );
 
 CREATE TABLE "company_movie_junction" (
-    "rec_key" integer   NOT NULL,
+    "rec_key" serial   NOT NULL,
     "movie_id" integer   NOT NULL,
     "comp_id" integer   NOT NULL,
     CONSTRAINT "pk_company_movie_junction" PRIMARY KEY (
@@ -58,8 +58,8 @@ CREATE TABLE "company_movie_junction" (
 ALTER TABLE "country_movie_junction" ADD CONSTRAINT "fk_country_movie_junction_movie_id" FOREIGN KEY("movie_id")
 REFERENCES "movies_data" ("id");
 
-ALTER TABLE "country_movie_junction" ADD CONSTRAINT "fk_country_movie_junction_iso_3166" FOREIGN KEY("iso_3166")
-REFERENCES "production_countries" ("iso_3166");
+ALTER TABLE "country_movie_junction" ADD CONSTRAINT "fk_country_movie_junction_iso_3166" FOREIGN KEY("iso_3166_1")
+REFERENCES "production_countries" ("iso_3166_1");
 
 ALTER TABLE "company_movie_junction" ADD CONSTRAINT "fk_company_movie_junction_movie_id" FOREIGN KEY("movie_id")
 REFERENCES "movies_data" ("id");
