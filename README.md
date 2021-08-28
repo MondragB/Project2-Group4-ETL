@@ -1,4 +1,6 @@
 # Movies Data - ETL (Extract, Transform, and Load)
+![istockphoto-1047762070-612x612](https://user-images.githubusercontent.com/62668061/131230233-c1cabaa5-6ace-4881-ad1a-b150d77d0c38.jpg)
+
 
 There is a lot of very important and useful data available these days, but it is often dispersed among multiple data sources and not well organized. **Extracting** the data from it's sources, **transforming** it by cleaning or reformatting it, and **loading** or storing the resulting data into a well designed database is a critical process for data-driven organizations. This process is referred to as ETL.
 
@@ -120,6 +122,8 @@ ADD CONSTRAINT "fk_crew_movie_junction_crew_id" FOREIGN KEY("crew_id") REFERENCE
 5. This will create the `etl_db` on your local machine.
 6. To view the database open the PgAdmin program and click connect.
 7. `etl_db` should be listed and you can click on it to view collections, as well as click on any of the collections to view a single record.
+
+
 
 ## Team
 
