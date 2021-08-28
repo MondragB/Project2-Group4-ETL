@@ -21,7 +21,7 @@ comp_id integer pk
 
 production_countries
 -
-iso_3166 varchar(2) pk
+iso_3166_1 varchar(2) pk
 country varchar(30)
 
 
@@ -29,7 +29,7 @@ country_movie_junction
 -
 rec_key integer pk
 movie_id integer fk - movies_data.id
-iso_3166 varchar(2) fk >- production_countries.iso_3166
+iso_3166_1 varchar(2) fk >- production_countries.iso_3166_1
 
 company_movie_junction
 -
