@@ -23,7 +23,7 @@ CREATE TABLE "company_movie_junction" (
 ALTER TABLE "country_movie_junction"
 ADD CONSTRAINT "fk_country_movie_junction_movie_id" FOREIGN KEY("movie_id") REFERENCES "movies_data" ("id");
 ALTER TABLE "country_movie_junction"
-ADD CONSTRAINT "fk_country_movie_junction_iso_3166" FOREIGN KEY("iso_3166_1") REFERENCES "production_countries" ("iso_3166_1");
+ADD CONSTRAINT "fk_country_movie_junction_iso_3166_1" FOREIGN KEY("iso_3166_1") REFERENCES "production_countries" ("iso_3166_1");
 ALTER TABLE "company_movie_junction"
 ADD CONSTRAINT "fk_company_movie_junction_movie_id" FOREIGN KEY("movie_id") REFERENCES "movies_data" ("id");
 ALTER TABLE "company_movie_junction"
