@@ -85,6 +85,15 @@ CREATE TABLE "lang_movie_junction" (
     "iso_639_1" varchar(2) NOT NULL,
     CONSTRAINT "pk_lang_movie_juction" PRIMARY KEY ("rec_key")
 );
+CREATE TABLE "ratings" (
+    "movie_id" integer NOT NULL,
+    "ratings_count" integer NOT NULL,
+    "avg_rating" float NOT NULL,
+    "median_rating" float NOT NULL,
+    CONSTRAINT "pk_ratings" PRIMARY KEY ("movie_id")
+);
+ALTER TABLE "ratings"
+ADD CONSTRAINT "fk_ratings_movie_id" FOREIGN KEY("movie_id") REFERENCES "movies_data" ("id");
 ALTER TABLE "lang_movie_junction"
 ADD CONSTRAINT "fk_lang_movie_junction_movie_id" FOREIGN KEY("movie_id") REFERENCES "movies_data" ("id");
 ALTER TABLE "lang_movie_junction"
