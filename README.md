@@ -127,7 +127,7 @@ ADD CONSTRAINT "fk_crew_movie_junction_crew_id" FOREIGN KEY("crew_id") REFERENCE
 ```
 SELECT * from production_countries WHERE country = ('Germany') or country = ('Spain') or country = ('France');
 SELECT * from movies_data WHERE budget < 1000000;
-SELECT title, budget, release_date, revenue, runtime, original_language FROM movie ORDER BY revenue DESC;
+SELECT title, budget, release_date, revenue, runtime, original_language FROM movies_data ORDER BY revenue DESC;
    
 ```
 
