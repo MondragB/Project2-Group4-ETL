@@ -122,7 +122,14 @@ ADD CONSTRAINT "fk_crew_movie_junction_crew_id" FOREIGN KEY("crew_id") REFERENCE
 6. To view the database open the PgAdmin program and click connect.
 7. `etl_db` should be listed and you can click on it to view collections, as well as click on any of the collections to view a single record.
 
+## Example Queries
 
+```
+SELECT * from production_countries WHERE country = ('Germany') or country = ('Spain') or country = ('France');
+SELECT * from movies_data WHERE budget < 1000000;
+SELECT title, budget, release_date, revenue, runtime, original_language FROM movie ORDER BY revenue DESC;
+   
+```
 
 ## Team
 
