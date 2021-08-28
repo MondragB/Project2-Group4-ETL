@@ -1,6 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-CREATE TABLE "movies_data" (
+﻿CREATE TABLE "movies_data" (
     "id" integer NOT NULL,
     "imdb_id" varchar(12) NOT NULL,
     "budget" float NOT NULL,
