@@ -1,11 +1,11 @@
 ﻿CREATE TABLE "production_companies" (
-    "name" varchar(30) NOT NULL,
+    "name" varchar(30000) NOT NULL,
     "comp_id" integer NOT NULL,
     CONSTRAINT "pk_production_companies" PRIMARY KEY ("comp_id")
 );
 CREATE TABLE "production_countries" (
     "iso_3166_1" varchar(2) NOT NULL,
-    "country" varchar(30) NOT NULL,
+    "country" varchar(30000) NOT NULL,
     CONSTRAINT "pk_production_countries" PRIMARY KEY ("iso_3166_1")
 );
 CREATE TABLE "country_movie_junction" (
