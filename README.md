@@ -1,6 +1,5 @@
+![Movie-1200-630](https://user-images.githubusercontent.com/62668061/131230271-4f4985b6-760b-4bcf-9dfb-a769f9215736.jpeg)
 # Movies Data - ETL (Extract, Transform, and Load)
-![istockphoto-1047762070-612x612](https://user-images.githubusercontent.com/62668061/131230233-c1cabaa5-6ace-4881-ad1a-b150d77d0c38.jpg)
-
 
 There is a lot of very important and useful data available these days, but it is often dispersed among multiple data sources and not well organized. **Extracting** the data from it's sources, **transforming** it by cleaning or reformatting it, and **loading** or storing the resulting data into a well designed database is a critical process for data-driven organizations. This process is referred to as ETL.
 
