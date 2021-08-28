@@ -1,6 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-CREATE TABLE "production_companies" (
+﻿CREATE TABLE "production_companies" (
     "name" varchar(30) NOT NULL,
     "comp_id" integer NOT NULL,
     CONSTRAINT "pk_production_companies" PRIMARY KEY ("comp_id")

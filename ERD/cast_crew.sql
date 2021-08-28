@@ -1,20 +1,4 @@
-﻿CREATE TABLE "movies_data" (
-    "id" integer NOT NULL,
-    "imdb_id" varchar(12) NOT NULL,
-    "budget" float NOT NULL,
-    "original_language" varchar(2) NOT NULL,
-    "original_title" varchar(100) NOT NULL,
-    "overview" varchar(200) NOT NULL,
-    "popularity" float NOT NULL,
-    "release_date" date NOT NULL,
-    "revenue" float NOT NULL,
-    "runtime" integer NOT NULL,
-    "status" boolean NOT NULL,
-    "title" varchar(100) NOT NULL,
-    "video" boolean NOT NULL,
-    CONSTRAINT "pk_movies_data" PRIMARY KEY ("id")
-);
-CREATE TABLE "cast_movie_junction" (
+﻿CREATE TABLE "cast_movie_junction" (
     "rec_key" SERIAL NOT NULL,
     "movie_id" integer NOT NULL,
     "character" varchar(30) NOT NULL,

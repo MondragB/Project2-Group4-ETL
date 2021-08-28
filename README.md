@@ -45,8 +45,8 @@ Here is one example of how a part of our ERD looks like.
 
 ### Step 3: Load
 
-- Once the data frames were all properly formatted, cleaned and tranformed, the tables were loaded into a Postgres database named `etl_db` via Jupyter Notebook 
-- After the files were reformatted, a connection to Postgres was created using `sqlalchemy` and `create_engine` imports. 
+- Once the data frames were all properly formatted, cleaned and tranformed, the tables were loaded into a Postgres database named `etl_db` via Jupyter Notebook.
+- After the files were reformatted, a connection to Postgres was created using `sqlalchemy` and `create_engine` imports.
 - The tables were converted to sql format using `to.sql()` with a connection open previous to these lines of code.
 
 ## Schema Sample
