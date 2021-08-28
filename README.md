@@ -28,7 +28,7 @@ This database is meant to serve avid movie watchers, reviewers and even data ana
 - This allowed to somewhat work backwards by choosing the kind of data that was relevent and showed us far we had to normalize the data.
 
 Here is one example of how a part of our ERD looks like.
-![ERD Example](/ERD/Cast_Crew.PNG)
+![ERD Example](/ERD/images/Cast_Crew.PNG)
 
 ### Step 1: Extract
 
